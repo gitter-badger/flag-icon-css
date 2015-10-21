@@ -1,6 +1,8 @@
 flag-icon-css
 =============
 
+[![Join the chat at https://gitter.im/ofuochi/flag-icon-css](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ofuochi/flag-icon-css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 CSS for vector based country flags. See the
 [demo](http://lipis.github.io/flag-icon-css/).
 
